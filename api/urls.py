@@ -1,5 +1,6 @@
 from django.urls import re_path
 from .views import book_view
+from .views import health_view
 
 app_name = 'api'
 
