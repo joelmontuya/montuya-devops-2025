@@ -56,7 +56,7 @@ jobs:
 
     permissions:
       contents: read
-      packagess: write
+      packages: write
 
     steps:
       - name: Checkout code
